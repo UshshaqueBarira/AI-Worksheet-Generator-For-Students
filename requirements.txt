@@ -1,0 +1,11 @@
+gradio
+huggingface_hub>=0.33.5
+pypdf
+reportlab
+python-docx
+httpx
+sympy>=1.12
+chempy>=0.8.2
+pint>=0.23
+pdfplumber
+requests
